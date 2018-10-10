@@ -1,0 +1,24 @@
+{
+  "description": "ng Font QTS",
+  "keywords": [
+    "ng-font-qts"
+  ],
+  "author": {
+    "name": "Nate Thompson",
+    "email": "nathanielct777@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nthompson777/ng-font-qts.git"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+	"version": "0.0.1",
+  "name": "ng-font-qts",
+  "main": "index.js",
+  "module": "index.es.js",
+  "jsnext:main": "index.es.js",
+  "types": "./index.d.ts",
+  "license": "MIT"
+}
