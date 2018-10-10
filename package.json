@@ -1,5 +1,5 @@
 {
-  "description": "ng Font QTS",
+  "description": "ng-font-qts",
   "keywords": [
     "ng-font-qts"
   ],
@@ -16,9 +16,9 @@
   },
   "version": "1.0.0",
   "name": "ng-font-qts",
-  "main": "index.js",
-  "module": "index.es.js",
-  "jsnext:main": "index.es.js",
-  "types": "./index.d.ts",
+  "main": "./font-qts/index.js",
+  "module": "./font-qts/index.es.js",
+  "jsnext:main": "./font-qts/index.es.js",
+  "types": "./font-qts/index.d.ts",
   "license": "MIT"
 }
