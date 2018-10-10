@@ -1,6 +1,6 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fa';
+var prefix = 'fqts';
 var iconName = 'train01';
 var width = 32;
 var height = 32;
@@ -19,7 +19,7 @@ exports.definition = {
     svgPathData
   ]};
 
-exports.faTrain01 = exports.definition;
+exports.faTrain01 = exports.definition; 
 exports.prefix = prefix;
 exports.iconName = iconName;
 exports.width = width;
