@@ -33,3 +33,4 @@ export const faTrainTunnel: IconDefinition;
 export const faTankerMoney: IconDefinition;
 export const faTrainMagnified: IconDefinition;
 export const faTankcarMagnified: IconDefinition;
+export const faRailcarMaintenance: IconDefinition;
