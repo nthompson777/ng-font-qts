@@ -40,6 +40,7 @@ export type IconName = '500px' |
   'railcar02' | 
   'railcar03' | 
   'railcar04' | 
+  'railcar-maintenance' |
   'tracks-highway' | 
   'train05' | 
   'train06' | 
