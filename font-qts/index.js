@@ -1,5 +1,4 @@
-// ng Font QTS by NT - http://qts.com
-// v1.3.0
+// ng Font QTS by NT 
 (function (global, factory) {
 	typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports) :
 	typeof define === 'function' && define.amd ? define(['exports'], factory) :

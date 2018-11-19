@@ -1,5 +1,5 @@
-import { IconDefinition, IconLookup, IconName, IconPrefix, IconPack } from 'ng-font-qts/fqts-common-types';
-export { IconDefinition, IconLookup, IconName, IconPrefix, IconPack } from 'ng-font-qts/fqts-common-types';
+import { IconDefinition, IconLookup, IconName, IconPrefix, IconPack } from '../fqts-common-types';
+export { IconDefinition, IconLookup, IconName, IconPrefix, IconPack } from '../fqts-common-types';
 export const prefix: IconPrefix;
 export const fqts: IconPack;
 export const faTrain09: IconDefinition;
